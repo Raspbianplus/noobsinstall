@@ -22,7 +22,7 @@
             ]
         },
         {
-            "description": "LibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
+            "description": "TestLibreELEC is a fast and user-friendly Kodi Entertainment Center distribution.",
             "icon": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/LibreELEC_RPi2.png",
             "marketing_info": "http://releases.libreelec.tv/noobs/LibreELEC_RPi2/marketing.tar",
             "nominal_size": 1024,
